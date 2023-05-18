@@ -1,0 +1,51 @@
+<resources>
+    //general
+    <string name="app_name">Parking Admin</string>
+    <string name="splash">Splash screen</string>
+    <string name="car_DB_empty">Devices database is empty</string>
+    <string name="app_logo">App logo</string>
+    <string name="app_description">App for parking administration</string>
+    <string name="error_toast">\"Error: \"</string>
+    <string name="close">Close</string>
+    <string name="empty_DB">Database is empty now, please add new data</string>
+    <string name="delete_description">Delete button</string>
+    <string name="settings">Settings</string>
+    <string name="empty_list">Empty List</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="delete_all">Delete All</string>
+    //owner
+    <string name="owner_list">Owner List</string>
+    <string name="owner_name">Owner Name</string>
+    <string name="status">Status</string>
+    <string name="mail">Email</string>
+    <string name="phone">Phone</string>
+    <string name="delete_owner_description">Delete owner</string>
+    <string name="update_owner_description">Update owner</string>
+    <string name="owner_information">Owner Info</string>
+    //car
+    <string name="car_list">Car List</string>
+    <string name="car_list_title">Car List</string>
+    <string name="create_car">New Car Activity</string>
+    <string name="add_car">New Car</string>
+    <string name="car_number">Car Number</string>
+    <string name="car_mark"> Car Mark</string>
+    <string name="car_model">Car Model</string>
+    <string name="add_new_car">New Car</string>
+
+    //bind
+    <string name="Bind_car">Binding Cars</string>
+    <string name="owner_bind_car"><![CDATA[Owner info with binding cars]]></string>
+    <string name="empty_bind_car">This owner haven\'t any minding car now</string>
+    <string name="car_bind">Bind Car to Owner</string>
+    //stat
+    <string name="car_mark_c">Car Mark: %d</string>
+    <string name="car_model_c">Car Model: %.2f</string>
+    <string name="count_error">Count Mistake</string>
+    <string name="total_stat">Total Owner: %1$d. Total Car: %2$d</string>
+    <string name="owner_count">Owner Count: %d</string>
+    <string name="car_count">Car Count: %d</string>
+    <string name="bind_count">Bind Car Count: %d</string>
+
+</resources>
